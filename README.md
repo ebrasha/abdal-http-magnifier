@@ -7,7 +7,7 @@
 
 
 **Abdal HTTP Magnifier** is a high-performance reconnaissance and auditing tool crafted for cybersecurity professionals, penetration testers, and network defenders. This tool is part of the **Abdal Arsenal**, developed by **Ebrahim Shafiei (EbraSha)**. It is specifically designed to probe and enumerate HTTP methods supported by a web server, helping to identify misconfigurations, potential security risks, and WAF/CDN behaviors.
-This software is part of the Abdal arsenal, which belongs to the Abdal Security Group, led by Ebrahim Shafiei (EbraSha).
+
 
 ## 🎙️ Translation
 
