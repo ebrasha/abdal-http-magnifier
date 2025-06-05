@@ -34,7 +34,7 @@ The tool sends requests with a combination of custom headers to simulate evasive
 
 ## 🎯 Key Features
 
-- 🔍 Full enumeration of HTTP verbs
+- 🔍 Full enumeration of HTTP methods: `GET`, `POST`, `PUT`, `DELETE`, `OPTIONS`, `HEAD`, `TRACE`, `CONNECT`, `PATCH`
 - ⚡ Asynchronous engine using `reqwest` and `tokio` for high-speed probing
 - 🧩 Bypass techniques using advanced headers (`X-Forwarded-For`, `Via`, etc.)
 - 🌐 HTTP/HTTPS support with certificate ignoring
